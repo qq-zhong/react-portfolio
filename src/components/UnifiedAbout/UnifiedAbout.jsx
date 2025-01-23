@@ -13,7 +13,7 @@ export const UnifiedAbout = () => {
                 skills.map((skill, id) => {
                     return <div key={id} className={styles.skill}>
                                 <div className={styles.skillImageContainer}>
-                                    <img src={getImageUrl(skill.imageSrc)} alt={skill.title}/>
+                                    <img src={skill.imageSrc} alt={skill.title}/>
                                 </div>
                                 <p>{skill.title}</p>
 
@@ -25,7 +25,7 @@ export const UnifiedAbout = () => {
             </div>
             <ul className = {styles.aboutItems}>
                             <li className = {styles.aboutItem}>
-                                <img src={getImageUrl("about/computer.png")} alt="Cursor icon"  className={styles.image} />
+                                <img src={"assets/about/computer.png"} alt="Cursor icon"  className={styles.image} />
                                 <div>
                                     <h3>Front End Developer</h3>
                                     <p>
@@ -35,7 +35,7 @@ export const UnifiedAbout = () => {
                                 </div>
                             </li>
                             <li className = {styles.aboutItem}>
-                                <img src={getImageUrl("about/prototype.png")} alt="Server icon" className={styles.image}/>
+                                <img src={"assets/about/prototype.png"} alt="Server icon" className={styles.image}/>
                                 <div>
                                     <h3>Backend Developer</h3>
                                     <p>
@@ -44,7 +44,7 @@ export const UnifiedAbout = () => {
                                 </div>
                             </li>
                             <li className = {styles.aboutItem}>
-                                <img src={getImageUrl("about/android.png")} alt="Cursor icon"  className={styles.image}/>
+                                <img src={"assets/about/android.png"} alt="Cursor icon"  className={styles.image}/>
                                 <div>
                                     <h3>UI Designer</h3>
                                     <p>
