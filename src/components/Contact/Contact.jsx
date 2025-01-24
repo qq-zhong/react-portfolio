@@ -17,11 +17,11 @@ export const Contact = () => {
             </li>
             <li className= {styles.link}>
                 <img src={"assets/contact/linkedinIcon.png"} alt="Email icon" />
-                <a href="https://www.linkedin.com/qqzhong">linkedin.com</a>
+                <a href="https://www.linkedin.com/in/qqz96">linkedin.com/in/qqz96</a>
             </li>
             <li className= {styles.link}>
                 <img src={"assets/contact/emailIcon.png"} alt="Email icon" />
-                <a href="https://www.githumb.com/qqzhong">www.githumb.com/qqzhong</a>
+                <a href="https://www.github.com/qq-zhong">www.github.com/qq-zhong</a>
             </li>
         </ul>
     </footer>

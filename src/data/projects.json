@@ -1,26 +1,26 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "assets/projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "ArtChart",
+      "imageSrc": "assets/projects/artchart.png",
+      "description": "Mobile app for finding and rating public art around town",
+      "skills": ["Kotlin", "Javascript", "Firebase"],
+      "demo": "https://qq-zhong.github.io/artChart_site/",
+      "source": "https://github.com/anapremovic/ArtChart"
     },
     {
-      "title": "Project B",
-      "imageSrc": "assets/projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "OpenGL 3D Render",
+      "imageSrc": "assets/projects/opengl2.png",
+      "description": "This is a project made to learn the latest languages by building an app",
+      "skills": ["Angular", "OpenGL","Typescript"],
+      "demo": "https://qq-zhong.github.io/opengl_cow/",
+      "source": "https://github.com/qq-zhong/opengl_cow"
     },
     {
-      "title": "Project C",
-      "imageSrc": "assets/projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Family Feud",
+      "imageSrc": "assets/projects/feud.png",
+      "description": "8 rounds of family feud made for the Music Discussion Club at SFU, with buzzers and sound!",
+      "skills": ["Angular"],
+      "demo": "https://qq-zhong.github.io/feud/",
+      "source": "https://github.com/qq-zhong/feud"
     }
   ]

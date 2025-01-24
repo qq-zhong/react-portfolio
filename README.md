@@ -8,8 +8,6 @@ npm run preview
 todo:
 about - front end, android (get icon), backend 
 
-experience - remove all experience
-
 projects - cow, artchart, erhu, dig up java game?
 
 move the experience icon section up to replace the image in about

@@ -1,11 +1,15 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "assets/skills/html.png"
+    "title": "Python",
+    "imageSrc": "assets/skills/python.png"
   },
   {
-    "title": "CSS",
-    "imageSrc": "assets/skills/css.png"
+    "title": "Java",
+    "imageSrc": "assets/skills/java.png"
+  },
+  {
+    "title": "Angular",
+    "imageSrc": "assets/skills/angular.png"
   },
   {
     "title": "React",
@@ -16,15 +20,12 @@
     "imageSrc": "assets/skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "assets/skills/graphql.png"
+    "title": "Kotlin",
+    "imageSrc": "assets/skills/Kotlin_Icon.png"
   },
+  
   {
-    "title": "MongoDB",
-    "imageSrc": "assets/skills/mongodb.png"
-  },
-  {
-    "title": "Figma",
-    "imageSrc": "assets/skills/figma.png"
+    "title": "UE5",
+    "imageSrc": "assets/skills/ue5_1.png"
   }
 ]

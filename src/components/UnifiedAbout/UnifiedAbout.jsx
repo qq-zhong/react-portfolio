@@ -29,8 +29,8 @@ export const UnifiedAbout = () => {
                                 <div>
                                     <h3>Front End Developer</h3>
                                     <p>
-                                        I'm a frontend developer with experience in building
-                                        and optimizing sties
+                                        I'm a frontend developer with experience building
+                                        multiple webistes
                                     </p>
                                 </div>
                             </li>
@@ -39,16 +39,16 @@ export const UnifiedAbout = () => {
                                 <div>
                                     <h3>Backend Developer</h3>
                                     <p>
-                                    experience developing and optimising back end system and APIs
+                                    I've developed back end system, databases and APIs
                                     </p>
                                 </div>
                             </li>
                             <li className = {styles.aboutItem}>
                                 <img src={"assets/about/android.png"} alt="Cursor icon"  className={styles.image}/>
                                 <div>
-                                    <h3>UI Designer</h3>
+                                    <h3>Android Developer</h3>
                                     <p>
-                                        I have designed multiple landing pages and have systems as well
+                                        I have designed multiple android applications
                                     </p>
                                 </div>
                             </li>
