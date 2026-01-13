@@ -1,4 +1,10 @@
 [
+  
+  
+  {
+    "title": "Unity",
+    "imageSrc": "assets/skills/unity.png"
+  },
   {
     "title": "Python",
     "imageSrc": "assets/skills/python.png"
@@ -22,10 +28,5 @@
   {
     "title": "Kotlin",
     "imageSrc": "assets/skills/Kotlin_Icon.png"
-  },
-  
-  {
-    "title": "UE5",
-    "imageSrc": "assets/skills/ue5_1.png"
   }
 ]

@@ -10,7 +10,7 @@
     {
       "title": "OpenGL 3D Render",
       "imageSrc": "assets/projects/opengl2.png",
-      "description": "This is a project made to learn the latest languages by building an app",
+      "description": "Showcases computer graphics techniques such as Phong shading",
       "skills": ["Angular", "OpenGL","Typescript"],
       "demo": "https://qq-zhong.github.io/opengl_cow/",
       "source": "https://github.com/qq-zhong/opengl_cow"

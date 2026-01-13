@@ -2,18 +2,28 @@
 
 https://youtu.be/YQCDUJ6hhNY?t=6202
 
+npm run dev
+
+or
+
 npm run build
-npm run preview
+npm run preview // for preview on local server
 
 todo:
-about - front end, android (get icon), backend 
 
-projects - cow, artchart, erhu, dig up java game?
+reorder to put unity on top, rid of ue5
 
-move the experience icon section up to replace the image in about
+add game developer icon
+
+fix the demo project bottom section
 
 
-more - make blackjack
+
+deploy code:
+npm run build
+npm install --save-dev gh-pages
+
+
 
 modifying vite.config.js to 
 export default defineConfig({
