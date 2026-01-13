@@ -29,7 +29,7 @@ export const UnifiedAbout = () => {
                         <div>
                             <h3>Game Developer</h3>
                             <p>
-                                I love builing games in Uniny, and hope to use Unreal in my next game
+                                I love building games in Uniny, and hope to use Unreal in my next game
                             </p>
                         </div>
                     </li>

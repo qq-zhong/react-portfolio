@@ -11,17 +11,15 @@ npm run preview // for preview on local server
 
 todo:
 
-reorder to put unity on top, rid of ue5
 
-add game developer icon
-
-fix the demo project bottom section
+fix the demo project bottom section, get rid of demo link to feud
 
 
 
 deploy code:
 npm run build
 npm install --save-dev gh-pages
+npm run deploy
 
 
 

@@ -20,7 +20,6 @@
       "imageSrc": "assets/projects/feud.png",
       "description": "8 rounds of family feud made for the Music Discussion Club at SFU, with buzzers and sound!",
       "skills": ["Angular"],
-      "demo": "https://qq-zhong.github.io/feud/",
       "source": "https://github.com/qq-zhong/feud"
     }
   ]
